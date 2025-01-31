@@ -1,0 +1,74 @@
+"use client";
+
+import TabHeader from "@/components/header/tab-header";
+import React, { useState } from 'react';
+import { Input } from "@/components/ui/input";
+import { Button } from "@/components/ui/button";
+
+const letterPairs = [
+  { pair: 'AB', word: 'Apple', cornersAlgorithm: 'Corners Algorithm AB', edgesAlgorithm: 'Edges Algorithm AB' },
+  { pair: 'AC', word: 'Axe', cornersAlgorithm: 'Corners Algorithm AC', edgesAlgorithm: 'Edges Algorithm AC' },
+];
+
+const MEMO_LIST_CONTENT = () => {
+  const [pairFilter, setPairFilter] = useState('');
+  const [wordFilter, setWordFilter] = useState('');
+
+  const filteredPairs = letterPairs.filter(({ pair, word }) =>
+    pair.toLowerCase().includes(pairFilter.toLowerCase()) &&
+    word.toLowerCase().includes(wordFilter.toLowerCase())
+  );
+
+  return (
+    <div>
+      <h1>Memo List</h1>
+      <p>Memorize the Rubik's Cube algorithms with our memorization tools.</p>
+      <div className="flex gap-4 mb-4 mt-4">
+        <Input
+          placeholder="Search by letter pair"
+          value={pairFilter}
+          onChange={(e) => setPairFilter(e.target.value)}
+        />
+        <Input
+          placeholder="Search by word"
+          value={wordFilter}
+          onChange={(e) => setWordFilter(e.target.value)}
+        />
+      </div>
+      <div className="grid gap-4">
+        <div className="flex items-center gap-4 p-4 border-b font-semibold">
+          <div className="w-24">Letter Pair</div>
+          <div className="flex-grow">Word</div>
+        </div>
+        {filteredPairs.map(({ pair, word, cornersAlgorithm, edgesAlgorithm }) => (
+          <div key={pair} className="flex items-center gap-4 p-4 border rounded">
+            <div className="w-24">{pair}</div>
+            <div className="flex-grow">{word}</div>
+            <Button onClick={() => alert(cornersAlgorithm)}>Corners Algorithm</Button>
+            <Button onClick={() => alert(edgesAlgorithm)}>Edges Algorithm</Button>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+const TRAINER_CONTENT = () => {
+  return (
+    <div>
+      <h1>Trainer</h1>
+      <p>Practice the Rubik's Cube algorithms with our training tools.</p>
+    </div>
+  );
+};
+
+const MEMORIZE_TABS = [
+  {tabTitle: 'Memo List', tabContent: <MEMO_LIST_CONTENT />},
+  {tabTitle: 'Trainer', tabContent: <TRAINER_CONTENT />}
+];
+
+export default function Memorize() {
+  return (
+    <TabHeader tabs={MEMORIZE_TABS} />
+  );
+}

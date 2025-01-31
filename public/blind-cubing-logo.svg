@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="blind-cubing-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="154.85638"
+     inkscape:cy="208.95005"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1072"
+     inkscape:window-y="828"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g33"
+     inkscape:lockguides="false" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="6.8962621 : 63.716473 : 1"
+       inkscape:vp_y="-1.8369095e-13 : 1000 : 0"
+       inkscape:vp_z="100.36838 : 66.188717 : 1"
+       inkscape:persp3d-origin="52.916665 : 35.277777 : 1"
+       id="perspective21" />
+  </defs>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g33"
+       style="stroke-width:0.52916665;stroke-dasharray:none">
+      <path
+         style="fill:#2626ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.919291;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 53.419949,39.520673 V 104.67532 L 102.79495,83.041944 V 19.801228 Z"
+         id="path26"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.919291;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 53.419423,39.520646 V 104.67529 L 4.0444173,83.041917 V 19.801202 Z"
+         id="path26-5"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ff9307;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.919291;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 4.0437287,19.801218 53.421846,39.522015 102.79505,19.800585 53.507331,0.85239146 Z"
+         id="path29"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.919291;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.9335408,28.528058 54.623997,49.10265 c 0,0 -2.02509,24.657641 -13.07279,20.363236 C 25.913329,63.387215 29.69932,49.859382 26.258683,48.426619 22.927667,47.039505 25.341975,62.376803 11.108779,57.205071 0.00220185,53.169417 2.9335408,28.528058 2.9335408,28.528058 Z"
+         id="path30"
+         sodipodi:nodetypes="ccsssc" />
+      <path
+         style="fill:#be3434;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.919291;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.9987971,28.488569 4.0186362,28.190518 Z"
+         id="path31"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.919291;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 54.36018,49.038841 53.953905,52.207772 102.78793,33.03168 v -2.681401 z"
+         id="path33" />
+    </g>
+  </g>
+</svg>
