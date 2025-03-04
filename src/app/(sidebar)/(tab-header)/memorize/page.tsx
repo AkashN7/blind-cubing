@@ -1,20 +1,42 @@
 "use client";
 
 import TabHeader from "@/components/header/tab-header";
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import { SAVE_TO_LOCAL_STORAGE, GET_FROM_LOCAL_STORAGE } from "@/utils/local-storage";
+import DefaultLetterPairInfo from "@/constants/default-letter-pair-info.json";
 
-const letterPairs = [
-  { pair: 'AB', word: 'Apple', cornersAlgorithm: 'Corners Algorithm AB', edgesAlgorithm: 'Edges Algorithm AB' },
-  { pair: 'AC', word: 'Axe', cornersAlgorithm: 'Corners Algorithm AC', edgesAlgorithm: 'Edges Algorithm AC' },
-];
+type LetterPairInfo = {
+  word: string;
+  cornersAlgorithm?: string;
+  edgesAlgorithm?: string;
+};
 
 const MEMO_LIST_CONTENT = () => {
+  const [letterPairInfo, setLetterPairInfo] = useState<Record<string, Record<string, LetterPairInfo>>>(DefaultLetterPairInfo);
   const [pairFilter, setPairFilter] = useState('');
   const [wordFilter, setWordFilter] = useState('');
 
-  const filteredPairs = letterPairs.filter(({ pair, word }) =>
+  useEffect(() => {
+    const savedLetterPairInfo = GET_FROM_LOCAL_STORAGE('letterPairInfo');
+    if (savedLetterPairInfo) {
+      setLetterPairInfo(JSON.parse(savedLetterPairInfo));
+    } else {
+      SAVE_TO_LOCAL_STORAGE('letterPairInfo', JSON.stringify(DefaultLetterPairInfo));
+      setLetterPairInfo(DefaultLetterPairInfo);
+    }
+  }, []);
+
+
+  const filteredPairs = Object.entries(letterPairInfo).flatMap(([rowLetter, columns]) =>
+    Object.entries(columns).map(([colLetter, { word, cornersAlgorithm, edgesAlgorithm }]) => ({
+      pair: `${rowLetter}${colLetter}`,
+      word,
+      cornersAlgorithm,
+      edgesAlgorithm,
+    }))
+  ).filter(({ pair, word }) =>
     pair.toLowerCase().includes(pairFilter.toLowerCase()) &&
     word.toLowerCase().includes(wordFilter.toLowerCase())
   );

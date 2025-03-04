@@ -1,0 +1,2523 @@
+{
+  "A": {
+    "B": {
+      "word": "ABS",
+      "edgesAlgorithm": "[R2 U' : [S , R2']]",
+      "cornersAlgorithm": "[R' B' R : [R D R' , U']]"
+    },
+    "C": {
+      "word": "AIR CONDITIONER"
+    },
+    "D": {
+      "word": "ADVERTISEMENT",
+      "edgesAlgorithm": "[L2' U : [S' , L2]]",
+      "cornersAlgorithm": "[R' D R U2 : [R' D' R , U]]"
+    },
+    "E": {
+      "word": "AEROPLANE",
+      "edgesAlgorithm": "[U' M U' : [M' , U2]]"
+    },
+    "F": {
+      "word": "AFRICA",
+      "edgesAlgorithm": "[U' : [R' E R , U2]]",
+      "cornersAlgorithm": "[F : [U2 , F' R F R']]"
+    },
+    "G": {
+      "word": "ANGEL",
+      "edgesAlgorithm": "[U : [L' E' L , U2']]",
+      "cornersAlgorithm": "[R' D R , U2]"
+    },
+    "H": {
+      "word": "ASH",
+      "edgesAlgorithm": "[U' : [R E' R' , U2]]",
+      "cornersAlgorithm": "[U' : [R D' R' , U2]]"
+    },
+    "I": {
+      "word": "ARTIFICIAL INTELLIGENCE",
+      "cornersAlgorithm": "[r D' U : [R D R' , U2]]"
+    },
+    "J": {
+      "word": "APPLE JUICE",
+      "edgesAlgorithm": "[R' U' : [S , R2']]"
+    },
+    "K": {
+      "word": "AK-47",
+      "edgesAlgorithm": "[R' F' : [R U R' , E]]",
+      "cornersAlgorithm": "[D U' : [R D R' , U2]]"
+    },
+    "L": {
+      "word": "ALIEN",
+      "edgesAlgorithm": "[L U : [S' , L2']]",
+      "cornersAlgorithm": "[D : [R' D' R , U2]]"
+    },
+    "M": {
+      "word": "ARMOR",
+      "edgesAlgorithm": "[U M U : [M' , U2']]"
+    },
+    "N": {
+      "word": "ANT",
+      "edgesAlgorithm": "[U : [L' E L , U2']]",
+      "cornersAlgorithm": "[R' U D R2 : [U' , R' D' R]]"
+    },
+    "O": {
+      "word": "AORTA",
+      "edgesAlgorithm": "[U' : [R E R' , U2]]",
+      "cornersAlgorithm": "[U' : [R D R' , U2]]"
+    },
+    "P": {
+      "word": "APPLE",
+      "edgesAlgorithm": "[U : [L E' L' , U2']]",
+      "cornersAlgorithm": "[R' D' R , U2]"
+    },
+    "Q": {
+      "word": "AQUARIUM",
+      "cornersAlgorithm": "[R' U D : [R D R' , U2]]"
+    },
+    "R": {
+      "word": "ARROW",
+      "edgesAlgorithm": "[L' U' : [L2 , S']]"
+    },
+    "S": {
+      "word": "ASS",
+      "edgesAlgorithm": "[U' R' B R : [S , R2']]",
+      "cornersAlgorithm": "[D' U' : [R D R' , U2]]"
+    },
+    "T": {
+      "word": "AT-AT",
+      "edgesAlgorithm": "[R U : [R2' , S]]",
+      "cornersAlgorithm": "[D U' : [R D' R' , U2]]"
+    },
+    "U": {
+      "word": "AUSTRALIA",
+      "edgesAlgorithm": "[U2 , M']",
+      "cornersAlgorithm": "[R F' R' U' : [R D R' , U2]]"
+    },
+    "V": {
+      "word": "AVENGERS",
+      "edgesAlgorithm": "[U' : [S , R2']]",
+      "cornersAlgorithm": "[R' D R U' R D' R' , U2]"
+    },
+    "W": {
+      "word": "AWESOME",
+      "edgesAlgorithm": "[M , U2]",
+      "cornersAlgorithm": "[R D' R' : [R' D R , U2]]"
+    },
+    "X": {
+      "word": "AXE",
+      "edgesAlgorithm": "[U : [S' , L2']]",
+      "cornersAlgorithm": "[R' U' D' R : [R U' R' , D]]"
+    }
+  },
+  "B": {
+    "A": {
+      "word": "BAAA",
+      "edgesAlgorithm": "[R2 U' : [R2' , S]]",
+      "cornersAlgorithm": "[R' B' R : [U' , R D R']]"
+    },
+    "C": {
+      "word": "BACON"
+    },
+    "D": {
+      "word": "BED",
+      "edgesAlgorithm": "[M2' U : [M , U2']]",
+      "cornersAlgorithm": "[R F' R' : [R' D R, U]]"
+    },
+    "E": {
+      "word": "BEE",
+      "edgesAlgorithm": "[S' , L F' L']",
+      "cornersAlgorithm": "[R : [U , R D R']]"
+    },
+    "F": {
+      "word": "BOYFRIEND",
+      "edgesAlgorithm": "[U' , R' E R]",
+      "cornersAlgorithm": "[R2 : [D' , R U' R']]"
+    },
+    "G": {
+      "word": "BAG",
+      "edgesAlgorithm": "[U : [L' E' L , U]]",
+      "cornersAlgorithm": "[R' D R , U]"
+    },
+    "H": {
+      "word": "BEEHIVE",
+      "edgesAlgorithm": "[U' , R E' R']",
+      "cornersAlgorithm": "[U' , R D' R']"
+    },
+    "I": {
+      "word": "BIKE",
+      "cornersAlgorithm": "[R2 U' : [D' , R U R']]"
+    },
+    "J": {
+      "word": "BANJO",
+      "edgesAlgorithm": "[E' : [U' , R' E R]]"
+    },
+    "K": {
+      "word": "BURGER KING",
+      "edgesAlgorithm": "[r : [U' R' U , M]]",
+      "cornersAlgorithm": "[D' : [R' D R , U]]"
+    },
+    "L": {
+      "word": "BALL",
+      "edgesAlgorithm": "[U' , R E2 R']",
+      "cornersAlgorithm": "[D : [R' D' R , U]]"
+    },
+    "M": {
+      "word": "BOMB"
+    },
+    "N": {
+      "word": "BANANA",
+      "edgesAlgorithm": "[U : [L' E L , U]"
+    },
+    "O": {
+      "word": "BOOK",
+      "edgesAlgorithm": "[U' , R E R']",
+      "cornersAlgorithm": "[U' , R D R']"
+    },
+    "P": {
+      "word": "BACKPACK",
+      "edgesAlgorithm": "[U : [L E' L' , U]",
+      "cornersAlgorithm": "[R' D' R , U]"
+    },
+    "Q": {
+      "word": "BBQ",
+      "edgesAlgorithm": "[r' : [U' R U , M']]"
+    },
+    "R": {
+      "word": "BEAR",
+      "edgesAlgorithm": "[U' , R' E2 R]",
+      "cornersAlgorithm": "[R2 U : [R' U' R , D]]"
+    },
+    "S": {
+      "word": "BUS",
+      "edgesAlgorithm": "(U M U M')2",
+      "cornersAlgorithm": "[D' : [U' , R D R']]"
+    },
+    "T": {
+      "word": "BATMAN",
+      "edgesAlgorithm": "[u' : [R E' R' , U]]",
+      "cornersAlgorithm": "[D : [U' , R D' R']]"
+    },
+    "U": {
+      "word": "BLUE",
+      "edgesAlgorithm": "[L F : [L' S' L , F2']]",
+      "cornersAlgorithm": "[R F' : [R' U' R , D]]"
+    },
+    "V": {
+      "word": "BEAVER",
+      "edgesAlgorithm": "[R' U R' : [S , R2]]",
+      "cornersAlgorithm": "[R' D R U' R D' R' , U]"
+    },
+    "W": {
+      "word": "BOW",
+      "edgesAlgorithm": "[r M' : [U' R' U , M2']]",
+      "cornersAlgorithm": "[U' , R D' R' U R' D R]"
+    },
+    "X": {
+      "word": "BOX",
+      "edgesAlgorithm": "U' L' U' L U L U L U' L'",
+      "cornersAlgorithm": "[R' B : [D' , R U R']]"
+    }
+  },
+  "C": {
+    "A": {
+      "word": "CANADA"
+    },
+    "B": {
+      "word": "CBAT"
+    },
+    "D": {
+      "word": "CD"
+    },
+    "E": {
+      "word": "CEMENT"
+    },
+    "F": {
+      "word": "COFFEE"
+    },
+    "G": {
+      "word": "CGI"
+    },
+    "H": {
+      "word": "CHAIR"
+    },
+    "I": {
+      "word": "CIA"
+    },
+    "J": {
+      "word": "CAJUN"
+    },
+    "K": {
+      "word": "CAKE"
+    },
+    "L": {
+      "word": "CLOWN"
+    },
+    "M": {
+      "word": "COOKIE MONSTER"
+    },
+    "N": {
+      "word": "CAN"
+    },
+    "O": {
+      "word": "COCONUT"
+    },
+    "P": {
+      "word": "CAP"
+    },
+    "Q": {
+      "word": "CROQUET"
+    },
+    "R": {
+      "word": "CAR"
+    },
+    "S": {
+      "word": "CHESS"
+    },
+    "T": {
+      "word": "CAT"
+    },
+    "U": {
+      "word": "CUBE"
+    },
+    "V": {
+      "word": "CAVE"
+    },
+    "W": {
+      "word": "COW"
+    },
+    "X": {
+      "word": "CLIX"
+    }
+  },
+  "D": {
+    "A": {
+      "word": "DAD",
+      "edgesAlgorithm": "[L2' U : [L2 , S']]",
+      "cornersAlgorithm": "[R' D R U' : [R' D' R , U']]"
+    },
+    "B": {
+      "word": "DOBBY",
+      "edgesAlgorithm": "[M2' U' : [M , U2]]",
+      "cornersAlgorithm": "[R F' R' : [U , R' D R]]"
+    },
+    "C": {
+      "word": "DISCONNECT"
+    },
+    "E": {
+      "word": "DISNEY",
+      "cornersAlgorithm": "[U' R2 : [D , R' U2 R]]"
+    },
+    "F": {
+      "word": "DOOFENSHMIRTZ",
+      "edgesAlgorithm": "[U' : [R' E R , U']]"
+    },
+    "G": {
+      "word": "DOG",
+      "edgesAlgorithm": "[U , L' E' L]",
+      "cornersAlgorithm": "[R' D R , U']"
+    },
+    "H": {
+      "word": "DOUGH",
+      "edgesAlgorithm": "[U' : [R E' R' , U']]",
+      "cornersAlgorithm": "[U' : [R D' R' , U']]"
+    },
+    "I": {
+      "word": "DIAMOND"
+    },
+    "J": {
+      "word": "DJ",
+      "edgesAlgorithm": "[U , L' E2' L]"
+    },
+    "K": {
+      "word": "DONKEY KONG",
+      "edgesAlgorithm": "[l' : [U L U' , M]]",
+      "cornersAlgorithm": "[D' : [R' D R , U']]"
+    },
+    "L": {
+      "word": "DOLL",
+      "edgesAlgorithm": "[U' : [R E2 R' , U']",
+      "cornersAlgorithm": "[D : [R' D' R , U']]"
+    },
+    "M": {
+      "word": "DIME",
+      "edgesAlgorithm": "[S , R' F R]"
+    },
+    "N": {
+      "word": "DONUT",
+      "edgesAlgorithm": "[U , L' E L]",
+      "cornersAlgorithm": "[U' R' : [U2 , R' D' R]]"
+    },
+    "O": {
+      "word": "DODO BIRD",
+      "edgesAlgorithm": "[U' : [R E R' , U']]",
+      "cornersAlgorithm": "[U' : [R D R' , U']]"
+    },
+    "P": {
+      "word": "DIPPER",
+      "edgesAlgorithm": "[U , L E' L']",
+      "cornersAlgorithm": "[R' D' R , U']"
+    },
+    "Q": {
+      "word": "DISQUALIFIED",
+      "edgesAlgorithm": "[L : [M , U L' U']]",
+      "cornersAlgorithm": "[R' D' : [U' , R' D R]]"
+    },
+    "R": {
+      "word": "DEER",
+      "edgesAlgorithm": "[U' : [R E2 R' , U']",
+      "cornersAlgorithm": "[U' R' : [U' , R' D' R]]"
+    },
+    "S": {
+      "word": "DRESS",
+      "edgesAlgorithm": "(U' M U' M')2",
+      "cornersAlgorithm": "[D : [R' D R , U']]"
+    },
+    "T": {
+      "word": "DOT",
+      "edgesAlgorithm": "[U , L E2' L']",
+      "cornersAlgorithm": "[D' : [R' D' R , U']]"
+    },
+    "U": {
+      "word": "DUDE",
+      "edgesAlgorithm": "[R' F' : [R S R' , F2]]",
+      "cornersAlgorithm": "[R' U' R : [F2' , R' U R U']]"
+    },
+    "V": {
+      "word": "DEVIL",
+      "edgesAlgorithm": "U R U R' U' R' U' R' U R",
+      "cornersAlgorithm": "[R' D R U' R D' R' , U']"
+    },
+    "W": {
+      "word": "DWARF",
+      "edgesAlgorithm": "[l' M' : [U L U' , M2']]",
+      "cornersAlgorithm": "[R D' R' : [R' D R , U']]"
+    },
+    "X": {
+      "word": "DEXTER",
+      "edgesAlgorithm": "[L U' L : [S' , L2']]",
+      "cornersAlgorithm": "[R' D' R : [R U' R' , D]]"
+    }
+  },
+  "E": {
+    "A": {
+      "word": "EAGLE",
+      "edgesAlgorithm": "[U' M U : [M' , U2]]"
+    },
+    "B": {
+      "word": "EYEBALL",
+      "edgesAlgorithm": "[L F' L' , S']",
+      "cornersAlgorithm": "[R2 : [D , R' U R]]"
+    },
+    "C": {
+      "word": "ECLIPSE"
+    },
+    "D": {
+      "word": "ENDERMAN",
+      "cornersAlgorithm": "[U' R : [U2 , R D R']]"
+    },
+    "F": {
+      "word": "ELF",
+      "edgesAlgorithm": "[S : [U' , R' E R]]",
+      "cornersAlgorithm": "[U' R' F : [D , R U R']]"
+    },
+    "G": {
+      "word": "EGG",
+      "edgesAlgorithm": "[l' U L' : [S' , L2]]",
+      "cornersAlgorithm": "[U R' : [U' , R' D R]]"
+    },
+    "H": {
+      "word": "EARTH",
+      "edgesAlgorithm": "[S : [U' , R E' R']]",
+      "cornersAlgorithm": "[R D' : [R D R' , U]]"
+    },
+    "I": {
+      "word": "EIFFEL TOWER",
+      "cornersAlgorithm": "[l' U : [R D' R' , U2]]"
+    },
+    "J": {
+      "word": "EJECT",
+      "edgesAlgorithm": "[M' : [U' , R S' R']]"
+    },
+    "K": {
+      "word": "ELK",
+      "edgesAlgorithm": "[l' : [M' , U' L U]]",
+      "cornersAlgorithm": "[U D' R' : [U' , R' D R]]"
+    },
+    "L": {
+      "word": "EEL",
+      "edgesAlgorithm": "[L' U2 : [L S L' , U]]",
+      "cornersAlgorithm": "[R U : [R' D R , U]]"
+    },
+    "M": {
+      "word": "EMINEM",
+      "edgesAlgorithm": "[M U : [M' , U2']]"
+    },
+    "N": {
+      "word": "ENVELOPE",
+      "edgesAlgorithm": "[L' F' : [E , L2]]",
+      "cornersAlgorithm": "[R' D R2 D' R2' : [U , R2 D R2' D' R2]]"
+    },
+    "O": {
+      "word": "EO LINE",
+      "edgesAlgorithm": "[R' F R : [S , R2']]",
+      "cornersAlgorithm": "[U' R : [R U' R' , D']]"
+    },
+    "P": {
+      "word": "EGGPLANT",
+      "edgesAlgorithm": "[R M U : [M' , U2]]",
+      "cornersAlgorithm": "[U R' U2 : [R D R' , U]]"
+    },
+    "Q": {
+      "word": "EARTHQUAKE",
+      "edgesAlgorithm": "[L' : [U' L U , M']]",
+      "cornersAlgorithm": "[R' , F' L F]]"
+    },
+    "R": {
+      "word": "EAR",
+      "edgesAlgorithm": "[U' R F : [R2' , E']]"
+    },
+    "S": {
+      "word": "ESKIMO",
+      "edgesAlgorithm": "M' : (U M' U M)2",
+      "cornersAlgorithm": "[U D R' : [U' , R' D R]]"
+    },
+    "T": {
+      "word": "E.T.",
+      "edgesAlgorithm": "[M' : [U' , L' E L]]",
+      "cornersAlgorithm": "[R U : [R' D' R , U]]"
+    },
+    "U": {
+      "word": "EURO",
+      "edgesAlgorithm": "[L' F' : [L2 , E']]",
+      "cornersAlgorithm": "[D' R : [R D' R' , U]]"
+    },
+    "V": {
+      "word": "ELEVATOR",
+      "edgesAlgorithm": "[L2 : [L' F' L , S]]",
+      "cornersAlgorithm": "[U R' D' : [U' , R' D' R]]"
+    },
+    "W": {
+      "word": "ELBOW",
+      "edgesAlgorithm": "[L' M : [U' L U , M2']]",
+      "cornersAlgorithm": "[D R : [R D' R', U]]"
+    },
+    "X": {
+      "word": "EXCEL",
+      "edgesAlgorithm": "[L F' L' , S]]",
+      "cornersAlgorithm": "[R : [R D' R' , U]]"
+    }
+  },
+  "F": {
+    "A": {
+      "word": "FART",
+      "edgesAlgorithm": "[U : [R' E R , U2]]",
+      "cornersAlgorithm": "[F : [R' D' R , U2]]"
+    },
+    "B": {
+      "word": "FACEBOOK",
+      "edgesAlgorithm": "[R' E R , U']",
+      "cornersAlgorithm": "[R' : [U' , R' D' R]]"
+    },
+    "C": {
+      "word": "FACE"
+    },
+    "D": {
+      "word": "FOOD",
+      "edgesAlgorithm": "[U2 : [R' E R , U]]"
+    },
+    "E": {
+      "word": "FEET",
+      "edgesAlgorithm": "[S : [R' E R , U']]",
+      "cornersAlgorithm": "[U' R' U , L]"
+    },
+    "G": {
+      "word": "FROG",
+      "edgesAlgorithm": "[L , U S' U']",
+      "cornersAlgorithm": "[R' U' : [D , R U R']]"
+    },
+    "H": {
+      "word": "FISH",
+      "edgesAlgorithm": "[M' U L : [S' , L2']]",
+      "cornersAlgorithm": "[U' R U' : [D' , R' U R]]"
+    },
+    "I": {
+      "word": "FIRE"
+    },
+    "J": {
+      "word": "FAJITAS",
+      "edgesAlgorithm": "[E , R U' R']"
+    },
+    "K": {
+      "word": "FORK",
+      "edgesAlgorithm": "[M2' : [U' L' U , M]]",
+      "cornersAlgorithm": "[R : [F , R' U R U']]"
+    },
+    "L": {
+      "word": "FLASHLIGHT",
+      "cornersAlgorithm": "[D R' U' : [D' , R U R']]"
+    },
+    "M": {
+      "word": "FOAM",
+      "edgesAlgorithm": "[M L' U : [M' , U2']]"
+    },
+    "N": {
+      "word": "FAN",
+      "edgesAlgorithm": "[r U R' : [E , R2]]",
+      "cornersAlgorithm": "[R U' D' R' : [D , R' U R]]"
+    },
+    "O": {
+      "word": "FOOL",
+      "edgesAlgorithm": "[M' U R' : [E , R2]]",
+      "cornersAlgorithm": "[D' R : [F , R' U R U']]"
+    },
+    "P": {
+      "word": "FANNY PACK",
+      "edgesAlgorithm": "[U E R' : [S , R2]]",
+      "cornersAlgorithm": "[R' U' : [D' , R U R']]"
+    },
+    "Q": {
+      "word": "FARQUAAD",
+      "edgesAlgorithm": "[U' L' U , M']",
+      "cornersAlgorithm": "[R' F : [R U R' , D]]"
+    },
+    "R": {
+      "word": "FRIDGE",
+      "edgesAlgorithm": "[E' , L U L']",
+      "cornersAlgorithm": "[l U' l' , F]"
+    },
+    "S": {
+      "word": "FOSSIL",
+      "edgesAlgorithm": "[U' r' : [R U R' , E]]",
+      "cornersAlgorithm": "[l U2 l' , F]"
+    },
+    "T": {
+      "word": "FAT",
+      "edgesAlgorithm": "[R2' : [E , R U' R']]",
+      "cornersAlgorithm": "[D' R' U' : [D' , R U R']]"
+    },
+    "U": {
+      "word": "FUDGE",
+      "edgesAlgorithm": "[U R' F2 : [R S R' , F]]",
+      "cornersAlgorithm": "[U' R' U : [R U' R' , D]]"
+    },
+    "V": {
+      "word": "FIVE",
+      "edgesAlgorithm": "[U' E' R : [E' , R2']]",
+      "cornersAlgorithm": "[U' D' R' U : [R U' R' , D]]"
+    },
+    "W": {
+      "word": "FLOWER",
+      "edgesAlgorithm": "[M : [U' L' U , M2']]",
+      "cornersAlgorithm": "[R U' R' : [D , R' U R]]"
+    },
+    "X": {
+      "word": "FOX",
+      "edgesAlgorithm": "[U E L : [E' , L2']]",
+      "cornersAlgorithm": "[U' D R' U : [R U' R' , D]]"
+    }
+  },
+  "G": {
+    "A": {
+      "word": "GAG",
+      "edgesAlgorithm": "[U' : [L' E' L , U2']]",
+      "cornersAlgorithm": "[U2 , R' D R]"
+    },
+    "B": {
+      "word": "GLOBE",
+      "edgesAlgorithm": "[U2' : [L' E' L , U']]",
+      "cornersAlgorithm": "[U , R' D R]"
+    },
+    "C": {
+      "word": "GRAND CHAMP"
+    },
+    "D": {
+      "word": "GOD",
+      "edgesAlgorithm": "[L' E' L , U]",
+      "cornersAlgorithm": "[U' , R' D R]"
+    },
+    "E": {
+      "word": "GENIE",
+      "edgesAlgorithm": "[l' U L : [S' , L2']]",
+      "cornersAlgorithm": "[U R' : [R' D R , U']]"
+    },
+    "F": {
+      "word": "GIRLFRIEND",
+      "edgesAlgorithm": "[U S' U' , L]",
+      "cornersAlgorithm": "[R' U' : [R U R' , D]]"
+    },
+    "H": {
+      "word": "GHOST",
+      "edgesAlgorithm": "[U S U' , L']",
+      "cornersAlgorithm": "[D R' : [F' , R D' R']]"
+    },
+    "I": {
+      "word": "GUITAR",
+      "cornersAlgorithm": "[D R' : [F2 , R D' R' D]]"
+    },
+    "J": {
+      "word": "GOOD JOB",
+      "edgesAlgorithm": "[L' E' : [L U L' , E']]"
+    },
+    "K": {
+      "word": "GECKO",
+      "edgesAlgorithm": "[U : [L F L' , S]]",
+      "cornersAlgorithm": "[U : [D , R U' R']]"
+    },
+    "L": {
+      "word": "GLUE",
+      "edgesAlgorithm": "[L f' L' : [S , L2]]"
+    },
+    "M": {
+      "word": "GYM",
+      "edgesAlgorithm": "[L F' L : [S' , L2']]"
+    },
+    "N": {
+      "word": "GUN",
+      "edgesAlgorithm": "[L F' : [E , L2']]",
+      "cornersAlgorithm": "[U R U : [R' D R , U2]]"
+    },
+    "O": {
+      "word": "GO",
+      "edgesAlgorithm": "[R' F R' : [S' , R2]]",
+      "cornersAlgorithm": "[U D : [R U' R' , D2]]"
+    },
+    "P": {
+      "word": "GOPRO",
+      "edgesAlgorithm": "[M' U' L' : [E' , L2]]",
+      "cornersAlgorithm": "[U R' D : [R U' R' , D2]]"
+    },
+    "Q": {
+      "word": "GUACAMOLE",
+      "edgesAlgorithm": "[L' : [U' L' U , M']]",
+      "cornersAlgorithm": "[R' U : [R U' R' , D]]"
+    },
+    "R": {
+      "word": "GRU",
+      "edgesAlgorithm": "[S' U' R' : [E' , R2]]",
+      "cornersAlgorithm": "[R B' R' : [R' D R , U]]"
+    },
+    "S": {
+      "word": "GOLDMAN SACHS",
+      "edgesAlgorithm": "[U l : [L' U' L , E]]",
+      "cornersAlgorithm": "[U D : [R U' R' , D]]"
+    },
+    "T": {
+      "word": "GOAT",
+      "edgesAlgorithm": "[L E : [L' U L , E]]",
+      "cornersAlgorithm": "[R' D R : [D' , R U R']]"
+    },
+    "U": {
+      "word": "GULF",
+      "edgesAlgorithm": "[L F' : [L2' , E']]"
+    },
+    "V": {
+      "word": "GRAVEL",
+      "edgesAlgorithm": "[L' F' L , S]",
+      "cornersAlgorithm": "[U D R D' : [U' , R' D R]]"
+    },
+    "W": {
+      "word": "GWEN",
+      "edgesAlgorithm": "[U : [S' , L B' L']]",
+      "cornersAlgorithm": "[U R : [D , R U' R']]"
+    },
+    "X": {
+      "word": "GALAXY",
+      "cornersAlgorithm": "[D U R U' : [F2' , U R' U' R]]"
+    }
+  },
+  "H": {
+    "A": {
+      "word": "HARP",
+      "edgesAlgorithm": "[U : [R E' R' , U2]]",
+      "cornersAlgorithm": "[U : [R D' R' , U2]]"
+    },
+    "B": {
+      "word": "HOBBIT",
+      "edgesAlgorithm": "[R E' R' , U']",
+      "cornersAlgorithm": "[R D' R' , U']"
+    },
+    "C": {
+      "word": "HELICOPTER"
+    },
+    "D": {
+      "word": "HEAD",
+      "edgesAlgorithm": "[U2 : [R E' R' , U]]",
+      "cornersAlgorithm": "[U2 : [R D' R' , U]]"
+    },
+    "E": {
+      "word": "HELIUM",
+      "edgesAlgorithm": "[S : [R E' R' , U']]",
+      "cornersAlgorithm": "[R D' : [U , R D R']]"
+    },
+    "F": {
+      "word": "HIGH FIVE",
+      "edgesAlgorithm": "[M' U L' : [S' , L2']]",
+      "cornersAlgorithm": "[U' R U' : [R' U R , D']]"
+    },
+    "G": {
+      "word": "HUG",
+      "edgesAlgorithm": "[L' , U S' U']",
+      "cornersAlgorithm": "[R' D : [F' , D' R D R']]"
+    },
+    "I": {
+      "word": "HAWAII",
+      "cornersAlgorithm": "[R U' D : [R' D R , U2]]"
+    },
+    "J": {
+      "word": "HIJAB",
+      "edgesAlgorithm": "[R2 : [E' , R' U' R]]"
+    },
+    "K": {
+      "word": "HOOK",
+      "edgesAlgorithm": "[M' : [M' , U' L U]]",
+      "cornersAlgorithm": "[l' U : [D , R U' R']]"
+    },
+    "L": {
+      "word": "HELL",
+      "edgesAlgorithm": "[E , L' U L]",
+      "cornersAlgorithm": "[D2 : [R U R' , D']]"
+    },
+    "M": {
+      "word": "HAM",
+      "edgesAlgorithm": "[R F : [R2' , E']]"
+    },
+    "N": {
+      "word": "HONEY",
+      "edgesAlgorithm": "[u' L : [S' , L2']]",
+      "cornersAlgorithm": "[U R : [R D' R' , U2]]"
+    },
+    "O": {
+      "word": "HOE",
+      "edgesAlgorithm": "[R' F : [R2 , E']]",
+      "cornersAlgorithm": "[R D' : [R' U' R , D2]]"
+    },
+    "P": {
+      "word": "HARRY POTTER",
+      "edgesAlgorithm": "[l' U' L' : [E' , L2]]",
+      "cornersAlgorithm": "[D2 , R U R']"
+    },
+    "Q": {
+      "word": "HEADQUARTERS",
+      "edgesAlgorithm": "[U' L U , M']",
+      "cornersAlgorithm": "[U' L U , R]"
+    },
+    "R": {
+      "word": "HAIR",
+      "cornersAlgorithm": "[U D R' F' : [D , R U' R']]"
+    },
+    "S": {
+      "word": "HIGHSCHOOL",
+      "edgesAlgorithm": "[U' M : [U , L S L']]"
+    },
+    "T": {
+      "word": "HAT",
+      "edgesAlgorithm": "[E' , R' U' R]",
+      "cornersAlgorithm": "[D2 : [R U R' , D]]"
+    },
+    "U": {
+      "word": "HULK",
+      "edgesAlgorithm": "[l' U : [S' , L2]]",
+      "cornersAlgorithm": "[D R U' R' : [R' D R , U2]]"
+    },
+    "V": {
+      "word": "HIVE",
+      "edgesAlgorithm": "[u' R' : [E , R2]]",
+      "cornersAlgorithm": "[R U' D R' : [R' D R , U2]]"
+    },
+    "W": {
+      "word": "HAWK",
+      "edgesAlgorithm": "[M : [U' L U , M2']]",
+      "cornersAlgorithm": "[R D' R' : [R' D R , U]]"
+    },
+    "X": {
+      "word": "HEXAGON",
+      "edgesAlgorithm": "[u L' : [E , L2]]"
+    }
+  },
+  "I": {
+    "A": {
+      "word": "IAGO",
+      "cornersAlgorithm": "R' D R U' R : [F , R' U R U']"
+    },
+    "B": {
+      "word": "ICEBERG",
+      "cornersAlgorithm": "[R2 U' : [R U R' , D']]"
+    },
+    "C": {
+      "word": "ICE"
+    },
+    "D": {
+      "word": "ID CARD"
+    },
+    "E": {
+      "word": "INTERNET EXPLORER",
+      "cornersAlgorithm": "[l' U' : [R D' R' , U2]]"
+    },
+    "F": {
+      "word": "ICE FISHING"
+    },
+    "G": {
+      "word": "INSTAGRAM",
+      "cornersAlgorithm": "[R' D : [F2 , D' R D R']]"
+    },
+    "H": {
+      "word": "INCREDIBLE HULK",
+      "cornersAlgorithm": "[R U D : [R' D R , U2]]"
+    },
+    "J": {
+      "word": "INDIANA JONES"
+    },
+    "K": {
+      "word": "INK",
+      "cornersAlgorithm": "[D' R' D : [F2 , D' R D R']]"
+    },
+    "L": {
+      "word": "ILL",
+      "cornersAlgorithm": "[R U : [R' D R , U2]]"
+    },
+    "M": {
+      "word": "IRON MAN"
+    },
+    "N": {
+      "word": "INDIA",
+      "cornersAlgorithm": "[R' F' R D U : [U2 , R' D' R]"
+    },
+    "O": {
+      "word": "IO",
+      "cornersAlgorithm": "[R D' U : [R' D R , U2]]"
+    },
+    "P": {
+      "word": "IP ADDRESS",
+      "cornersAlgorithm": "[D R U : [R' D' R , U2]]"
+    },
+    "Q": {
+      "word": "IQ TEST",
+      "cornersAlgorithm": "[R U D' : [R' D' R , U2]]"
+    },
+    "R": {
+      "word": "INFRARED",
+      "cornersAlgorithm": "[R U R' U D : [R D R' , U2]]"
+    },
+    "S": {
+      "word": "INTERSTELLAR",
+      "cornersAlgorithm": "[D R' D : [F2 , D' R D R']]"
+    },
+    "T": {
+      "word": "IT CLOWN",
+      "cornersAlgorithm": "[R U : [R' D' R , U2]]"
+    },
+    "U": {
+      "word": "IUD",
+      "cornersAlgorithm": "[D' R : [R D' R' , U2]]"
+    },
+    "V": {
+      "word": "IVY",
+      "cornersAlgorithm": "[R U' R' D' : [R' D R , U2]]"
+    },
+    "W": {
+      "word": "INCHWORM",
+      "cornersAlgorithm": "[D R : [R D' R' , U2]]"
+    },
+    "X": {
+      "word": "IXNAY",
+      "cornersAlgorithm": "[R : [R D' R' , U2]]"
+    }
+  },
+  "J": {
+    "A": {
+      "word": "JAR",
+      "edgesAlgorithm": "[R' U : [S , R2]]"
+    },
+    "B": {
+      "word": "JUSTIN BIEBER",
+      "edgesAlgorithm": "[E' : [R' E R , U']]"
+    },
+    "C": {
+      "word": "JESUS CHRIST"
+    },
+    "D": {
+      "word": "JEDI",
+      "edgesAlgorithm": "[L' E2' L , U]"
+    },
+    "E": {
+      "word": "JEEP",
+      "edgesAlgorithm": "[M' : [R S' R' , U']]"
+    },
+    "F": {
+      "word": "JEFF",
+      "edgesAlgorithm": "[R U' R' , E]"
+    },
+    "G": {
+      "word": "JAGUAR",
+      "edgesAlgorithm": "[L' E2' : [L U L' , E]]"
+    },
+    "H": {
+      "word": "JABBA THE HUTT",
+      "edgesAlgorithm": "[R2 : [R' U' R , E']]"
+    },
+    "I": {
+      "word": "JIGSAW"
+    },
+    "K": {
+      "word": "JUKE BOX",
+      "edgesAlgorithm": "[M' , U' R U]"
+    },
+    "L": {
+      "word": "JAIL",
+      "edgesAlgorithm": "[R' U' R : [E , R2']]"
+    },
+    "M": {
+      "word": "JAM",
+      "edgesAlgorithm": "[R U : [R' S' R , U]]"
+    },
+    "N": {
+      "word": "JEANS",
+      "edgesAlgorithm": "[R U' R' , E']"
+    },
+    "O": {
+      "word": "JOE",
+      "edgesAlgorithm": "[R' f R' : [S' , R2]]"
+    },
+    "P": {
+      "word": "JAPAN"
+    },
+    "Q": {
+      "word": "JACQUELINE",
+      "edgesAlgorithm": "[M , U' R U]"
+    },
+    "R": {
+      "word": "INFRARED",
+      "edgesAlgorithm": "[R' U' R' : [E' , R2]]"
+    },
+    "S": {
+      "word": "JESUS",
+      "edgesAlgorithm": "[U2 : [M , U R U']]"
+    },
+    "T": {
+      "word": "JET",
+      "edgesAlgorithm": "[U R' : [S , R2]]"
+    },
+    "U": {
+      "word": "JUICE",
+      "edgesAlgorithm": "[D' U L : [E' , L2']]"
+    },
+    "V": {
+      "word": "JAVELIN",
+      "edgesAlgorithm": "U R' U' R' U R U R U R' U2"
+    },
+    "W": {
+      "word": "JAWS",
+      "edgesAlgorithm": "[M2' , U' R U]"
+    },
+    "X": {
+      "word": "JINX",
+      "edgesAlgorithm": "[U L : [E' , L2']]"
+    }
+  },
+  "K": {
+    "A": {
+      "word": "KAYAK",
+      "edgesAlgorithm": "[R' F' : [E , R U R']]",
+      "cornersAlgorithm": "[U D : [R D R' , U2]]"
+    },
+    "B": {
+      "word": "KEBAB",
+      "edgesAlgorithm": "[R : [U' R' U , M']]",
+      "cornersAlgorithm": "[D' : [U , R' D R]]"
+    },
+    "C": {
+      "word": "KFC"
+    },
+    "D": {
+      "word": "KID",
+      "edgesAlgorithm": "[L' : [U L U' , M']]",
+      "cornersAlgorithm": "[D' : [U' , R' D R]]"
+    },
+    "E": {
+      "word": "KEY",
+      "edgesAlgorithm": "[l' : [U' L U , M']]",
+      "cornersAlgorithm": "[D' U R' : [R' D R , U']]"
+    },
+    "F": {
+      "word": "KFC",
+      "edgesAlgorithm": "[M' : [U' L' U , M']]",
+      "cornersAlgorithm": "[U R U' : [F , U R' U' R]]"
+    },
+    "G": {
+      "word": "KILOGRAM",
+      "edgesAlgorithm": "[U : [S , L F L']]",
+      "cornersAlgorithm": "[U : [R U' R' , D]]"
+    },
+    "H": {
+      "word": "KEVIN HART",
+      "edgesAlgorithm": "[M' : [U' L U , M']]",
+      "cornersAlgorithm": "[l' U : [R U' R' , D]]"
+    },
+    "I": {
+      "word": "KITE",
+      "cornersAlgorithm": "[R' : [F2 , R D' R' D]]"
+    },
+    "J": {
+      "word": "KILLJOY",
+      "edgesAlgorithm": "[U' R U , M']"
+    },
+    "L": {
+      "word": "KILL",
+      "edgesAlgorithm": "[U L' U' , M']",
+      "cornersAlgorithm": "[R' : [F' , R D' R' D]]"
+    },
+    "M": {
+      "word": "KILAMANJARO",
+      "edgesAlgorithm": "[r : [U R' U' , M']]"
+    },
+    "N": {
+      "word": "KNIFE",
+      "edgesAlgorithm": "[M' : [U R' U' , M']]",
+      "cornersAlgorithm": "[U' R' U : [R D R' , U2]]"
+    },
+    "O": {
+      "word": "KOALA",
+      "edgesAlgorithm": "[U' : [S' , R' F' R]]",
+      "cornersAlgorithm": "[U : [R U' R' , D']]"
+    },
+    "P": {
+      "word": "KELP",
+      "edgesAlgorithm": "[M' : [U R U' , M']]"
+    },
+    "Q": {
+      "word": "KUMQUAT",
+      "edgesAlgorithm": "[U' : [S , R' F' R]]",
+      "cornersAlgorithm": "[D' R' U : [R U' R' , D]]"
+    },
+    "R": {
+      "word": "KRILL",
+      "edgesAlgorithm": "[U L U' , M']",
+      "cornersAlgorithm": "[U' R' U2 : [R D R' , U]]"
+    },
+    "S": {
+      "word": "KISS",
+      "edgesAlgorithm": "U M' U' M U2 M U M' U",
+      "cornersAlgorithm": "[U : [R U' R' , D2]]"
+    },
+    "T": {
+      "word": "KIT KAT",
+      "edgesAlgorithm": "[U' R' U , M']",
+      "cornersAlgorithm": "[R U R' U' : [D' , R U R']]"
+    },
+    "U": {
+      "word": "KATE UPTON",
+      "cornersAlgorithm": "[U R U' : [F2' , U R' U' R]]"
+    },
+    "V": {
+      "word": "KILOVOLT",
+      "edgesAlgorithm": "[U R' F' R' : [S , R2]]"
+    },
+    "W": {
+      "word": "KIWI",
+      "edgesAlgorithm": "[D : [R F R' , S']]",
+      "cornersAlgorithm": "[U R' D' : [U' , R' D R]]"
+    },
+    "X": {
+      "word": "KLEENEX",
+      "edgesAlgorithm": "[U' L F L : [S' , L2']]",
+      "cornersAlgorithm": "[R' D' R : [R U R' , D]]"
+    }
+  },
+  "L": {
+    "A": {
+      "word": "LOS ANGELES",
+      "edgesAlgorithm": "[L U' : [S' , L2']]",
+      "cornersAlgorithm": "[D' U : [R D' R' , U2]]"
+    },
+    "B": {
+      "word": "LOBSTER",
+      "edgesAlgorithm": "[R E2 R' , U']",
+      "cornersAlgorithm": "[D : [U , R' D' R]]"
+    },
+    "C": {
+      "word": "LEETCODE"
+    },
+    "D": {
+      "word": "LADDER",
+      "edgesAlgorithm": "[U2 : [R E2 R' , U]]",
+      "cornersAlgorithm": "[D : [U' , R' D' R]]"
+    },
+    "E": {
+      "word": "LEE",
+      "edgesAlgorithm": "[L' U' : [L S L' , U']]",
+      "cornersAlgorithm": "[R U2 : [R' D R , U']]"
+    },
+    "F": {
+      "word": "LEAF",
+      "cornersAlgorithm": "[D R' U' : [R U R' , D']]"
+    },
+    "G": {
+      "word": "LEGO",
+      "edgesAlgorithm": "[L f' L : [S , L2']]"
+    },
+    "H": {
+      "word": "LIGHTHOUSE",
+      "edgesAlgorithm": "[L' U L , E]",
+      "cornersAlgorithm": "[D : [R U R' , D]]"
+    },
+    "I": {
+      "word": "LION",
+      "cornersAlgorithm": "[R U' : [R' D R , U U]]"
+    },
+    "J": {
+      "word": "LEBRON JAMES",
+      "edgesAlgorithm": "[R' U' R' : [E , R2]]"
+    },
+    "K": {
+      "word": "LAKE",
+      "edgesAlgorithm": "[M' , U L' U']",
+      "cornersAlgorithm": "[D' R' D : [F' , D' R D R']]"
+    },
+    "M": {
+      "word": "LEMON",
+      "edgesAlgorithm": "[M' : [L' S L , U]]"
+    },
+    "N": {
+      "word": "LINK",
+      "edgesAlgorithm": "[L' : [U , L' E L]]",
+      "cornersAlgorithm": "[U R U D : [R' D' R , U2]]"
+    },
+    "O": {
+      "word": "LOG",
+      "edgesAlgorithm": "[R E2 : [R' U' R , E']]",
+      "cornersAlgorithm": "[R D2 : [R' U' R , D']]"
+    },
+    "P": {
+      "word": "LAPTOP",
+      "edgesAlgorithm": "[L' U L , E']",
+      "cornersAlgorithm": "[D , R U R']"
+    },
+    "Q": {
+      "word": "LIQUID",
+      "edgesAlgorithm": "[M , U L' U']",
+      "cornersAlgorithm": "[R' F : [R U' R' , D]]"
+    },
+    "R": {
+      "word": "LASER",
+      "edgesAlgorithm": "[U' L : [S' , L2']]",
+      "cornersAlgorithm": "[D R' : [D , R' U R]]"
+    },
+    "S": {
+      "word": "LIGHTSABER",
+      "edgesAlgorithm": "[U' R' B : [E , R2]]",
+      "cornersAlgorithm": "[D' R D' : [R' U' R , D2]]"
+    },
+    "T": {
+      "word": "LETTUCE",
+      "edgesAlgorithm": "[R U' R' : [E , R2]]",
+      "cornersAlgorithm": "[D : [R U R' , D2]]"
+    },
+    "U": {
+      "word": "LUBE",
+      "edgesAlgorithm": "[U' D R' : [E , R2]]"
+    },
+    "V": {
+      "word": "LAVA",
+      "edgesAlgorithm": "[U' R' : [E , R2]]",
+      "cornersAlgorithm": "[R U' R' : [R' D R , U2]]"
+    },
+    "W": {
+      "word": "LAWNMOWER",
+      "edgesAlgorithm": "[M2' , U L' U']",
+      "cornersAlgorithm": "[D R : [R D' R' , U']]"
+    },
+    "X": {
+      "word": "LAXATIVE",
+      "edgesAlgorithm": "U' L U L U' L' U' L' U' L U2'",
+      "cornersAlgorithm": "[D R D : [U , R' D' R]]"
+    }
+  },
+  "M": {
+    "A": {
+      "word": "MAZE",
+      "edgesAlgorithm": "[U M U' : [M , U2]]"
+    },
+    "B": {
+      "word": "MOB"
+    },
+    "C": {
+      "word": "MINECRAFT"
+    },
+    "D": {
+      "word": "MAD",
+      "edgesAlgorithm": "[R' F R , S]"
+    },
+    "E": {
+      "word": "ME",
+      "edgesAlgorithm": "[M U' : [M' , U2]]"
+    },
+    "F": {
+      "word": "MUFFIN",
+      "edgesAlgorithm": "[M L' U' : [M' , U2']]"
+    },
+    "G": {
+      "word": "MAGAZINE",
+      "edgesAlgorithm": "[L F' L' : [S' , L2]]"
+    },
+    "H": {
+      "word": "MEH",
+      "edgesAlgorithm": "[R F : [E' , R2']]"
+    },
+    "I": {
+      "word": "MICHIGAN"
+    },
+    "J": {
+      "word": "MICHAEL JORDAN",
+      "edgesAlgorithm": "[R U2' : [R' S' R , U']]"
+    },
+    "K": {
+      "word": "MONKEY",
+      "edgesAlgorithm": "[r : [M' , U R' U']]"
+    },
+    "L": {
+      "word": "MILK",
+      "edgesAlgorithm": "[M' : [U , L' S L]]"
+    },
+    "N": {
+      "word": "MONEY",
+      "edgesAlgorithm": "[S' : [U , L' E L]]"
+    },
+    "O": {
+      "word": "MOMO",
+      "edgesAlgorithm": "[r U' R : [S , R2']]"
+    },
+    "P": {
+      "word": "MAX PARK",
+      "edgesAlgorithm": "[S' : [U , L E' L']]"
+    },
+    "Q": {
+      "word": "MANNEQUIN",
+      "edgesAlgorithm": "[R : [U R' U' , M']]"
+    },
+    "R": {
+      "word": "MIRROR",
+      "edgesAlgorithm": "[M' : [U , R E' R']]"
+    },
+    "S": {
+      "word": "MICROSOFT",
+      "edgesAlgorithm": "M' : (U' M' U' M)2"
+    },
+    "T": {
+      "word": "MOUNTAIN",
+      "edgesAlgorithm": "[U L' F' : [L2 , E]]"
+    },
+    "U": {
+      "word": "MUTEX",
+      "edgesAlgorithm": "[R F : [R2' , E]]"
+    },
+    "V": {
+      "word": "MOVIE",
+      "edgesAlgorithm": "[R' F R , S']"
+    },
+    "W": {
+      "word": "MICROWAVE",
+      "edgesAlgorithm": "[R M : [U R' U' , M2']]"
+    },
+    "X": {
+      "word": "MAXIMUM",
+      "edgesAlgorithm": "[R2' : [R F R' , S']]"
+    }
+  },
+  "N": {
+    "A": {
+      "word": "NORTH AMERICA",
+      "edgesAlgorithm": "[U' : [L' E L , U2']]",
+      "cornersAlgorithm": "[R' U D R : [D' , R U' R']]"
+    },
+    "B": {
+      "word": "NOTEBOOK",
+      "edgesAlgorithm": "[U2' : [L' E L , U']]"
+    },
+    "C": {
+      "word": "NACHOS"
+    },
+    "D": {
+      "word": "NOD-DON",
+      "edgesAlgorithm": "[L' E L , U]",
+      "cornersAlgorithm": "[U' R2' : [D' , R U2 R']]"
+    },
+    "E": {
+      "word": "KNEE",
+      "edgesAlgorithm": "[L' F' : [E , L2]]",
+      "cornersAlgorithm": "[R : [U , R2 D R2 D' R2]]"
+    },
+    "F": {
+      "word": "NERF",
+      "edgesAlgorithm": "[r U R : [E , R2']]",
+      "cornersAlgorithm": "[R U' D' R' : [R' U R , D]]"
+    },
+    "G": {
+      "word": "NUGGETS",
+      "edgesAlgorithm": "[L F' : [L2' , E]]",
+      "cornersAlgorithm": "[U R U' : [R' D R , U2]]"
+    },
+    "H": {
+      "word": "NIGHT",
+      "edgesAlgorithm": "[u R' : [S , R2]]",
+      "cornersAlgorithm": "[U R : [U2 , R D' R']]"
+    },
+    "I": {
+      "word": "NINE",
+      "cornersAlgorithm": "[R' F' R D U : [R' D' R , U2]"
+    },
+    "J": {
+      "word": "NINJA",
+      "edgesAlgorithm": "[E' , R U' R']"
+    },
+    "K": {
+      "word": "NIKE",
+      "edgesAlgorithm": "[M2' : [U R' U' , M]]",
+      "cornersAlgorithm": "[U' R' U' : [R D R' , U2]]"
+    },
+    "L": {
+      "word": "NECKLACE",
+      "edgesAlgorithm": "[L2' : [E , L U' L']]",
+      "cornersAlgorithm": "[U R U' D : [R' D' R , U2]]"
+    },
+    "M": {
+      "word": "NEMO",
+      "edgesAlgorithm": "[S' : [L' E L , U]]"
+    },
+    "O": {
+      "word": "NO",
+      "edgesAlgorithm": "[R , U' S U]",
+      "cornersAlgorithm": "[U R U' : [R' D' R , U2]]"
+    },
+    "P": {
+      "word": "NAP",
+      "edgesAlgorithm": "[M' U' R : [S , R2']]",
+      "cornersAlgorithm": "[U' R' D U' : [R D' R' , U2]]"
+    },
+    "Q": {
+      "word": "NESQUIK",
+      "edgesAlgorithm": "[U R' U' , M']"
+    },
+    "R": {
+      "word": "NURSE",
+      "edgesAlgorithm": "[E , L U L']",
+      "cornersAlgorithm": "[U R2 U' : [D' , R U R']]"
+    },
+    "S": {
+      "word": "NESS",
+      "edgesAlgorithm": "[U M : [U' , l' E l]]",
+      "cornersAlgorithm": "[U' R' U' : [R D' R' , U2]]"
+    },
+    "T": {
+      "word": "NET",
+      "cornersAlgorithm": "[R' F' R D' U : [R' D R , U2]]"
+    },
+    "U": {
+      "word": "NUT",
+      "edgesAlgorithm": "[r U' : [S , R2']]",
+      "cornersAlgorithm": "[U' R' : [R' D R , U2]]"
+    },
+    "V": {
+      "word": "NOVEL",
+      "edgesAlgorithm": "[u' R : [E' , R2']]",
+      "cornersAlgorithm": "[D' U' R' : [R' D R , U2]]"
+    },
+    "W": {
+      "word": "NEWSPAPER",
+      "edgesAlgorithm": "[M : [U R' U' , M2']]",
+      "cornersAlgorithm": "[U R U' D' : [R' D R , U2]]"
+    },
+    "X": {
+      "word": "NEXT",
+      "edgesAlgorithm": "[u L : [E' , L2']]",
+      "cornersAlgorithm": "[D U' R' : [R' D R , U2]]"
+    }
+  },
+  "O": {
+    "A": {
+      "word": "OATMEAL",
+      "edgesAlgorithm": "[U : [R E R' , U2]]",
+      "cornersAlgorithm": "[U : [R D R' , U2]]"
+    },
+    "B": {
+      "word": "OBI-WAN KENOBI",
+      "edgesAlgorithm": "[R E R' , U']",
+      "cornersAlgorithm": "[R D R' , U']"
+    },
+    "C": {
+      "word": "OCTOPUS"
+    },
+    "D": {
+      "word": "ODD",
+      "edgesAlgorithm": "[U2 : [R E R' , U]]",
+      "cornersAlgorithm": "[U2 : [R D R' , U]]"
+    },
+    "E": {
+      "word": "OREO",
+      "edgesAlgorithm": "[R' F R' : [S , R2]]",
+      "cornersAlgorithm": "[U' R' F R : [R D R' , U']]"
+    },
+    "F": {
+      "word": "OFFICE",
+      "edgesAlgorithm": "[M' U R : [E , R2']]",
+      "cornersAlgorithm": "[D' R : [R' U R U' , F]]"
+    },
+    "G": {
+      "word": "OGRE",
+      "edgesAlgorithm": "[L F' L : [S , L2']]",
+      "cornersAlgorithm": "[U D' : [R U' R' , D2]]"
+    },
+    "H": {
+      "word": "ONE HAND",
+      "edgesAlgorithm": "[R' F : [E' , R2]]",
+      "cornersAlgorithm": "[R D : [R' U' R , D2]]"
+    },
+    "I": {
+      "word": "OIL",
+      "cornersAlgorithm": "[R D' U' : [R' D R , U2]]"
+    },
+    "J": {
+      "word": "ORANGE JUICE",
+      "edgesAlgorithm": "[R' f R : [S' , R2']]"
+    },
+    "K": {
+      "word": "OAK",
+      "edgesAlgorithm": "[U' : [R' F' R , S']]",
+      "cornersAlgorithm": "[U : [D' , R U' R']]"
+    },
+    "L": {
+      "word": "OWL",
+      "edgesAlgorithm": "[R E : [R' U' R , E]]",
+      "cornersAlgorithm": "[R D : [R' U' R , D]]"
+    },
+    "M": {
+      "word": "OMELETTE",
+      "edgesAlgorithm": "[r U' R' : [S , R2]]"
+    },
+    "N": {
+      "word": "ONION",
+      "edgesAlgorithm": "[U' S U , R]",
+      "cornersAlgorithm": "[U R U : [R' D' R , U2]]"
+    },
+    "P": {
+      "word": "OVERPOWERED",
+      "edgesAlgorithm": "[U' S U , R']",
+      "cornersAlgorithm": "[R D' : [R' D R , U]]"
+    },
+    "Q": {
+      "word": "OLD QUACKMAN",
+      "edgesAlgorithm": "[R : [U R U' , M']]",
+      "cornersAlgorithm": "[U' R U : [R' U' R , D]]"
+    },
+    "R": {
+      "word": "ORANGE",
+      "edgesAlgorithm": "[R' E' : [R U' R' , E']]",
+      "cornersAlgorithm": "[R B' : [R' U' R , D]]"
+    },
+    "S": {
+      "word": "OSTRICH",
+      "edgesAlgorithm": "[U' r' : [R U R' , E']]",
+      "cornersAlgorithm": "[U' : [R' U' R , D']]"
+    },
+    "T": {
+      "word": "OTTER",
+      "edgesAlgorithm": "[S U L : [E , L2']]"
+    },
+    "U": {
+      "word": "ORANGUTAN",
+      "edgesAlgorithm": "[R' F : [E , R2]]",
+      "cornersAlgorithm": "[U' R' : [R' D R , U]]"
+    },
+    "V": {
+      "word": "OVEN",
+      "cornersAlgorithm": "[D' U R U' : [F2 , U R' U' R]]"
+    },
+    "W": {
+      "word": "OVERWATCH",
+      "edgesAlgorithm": "[U' : [S , R' B R]]"
+    },
+    "X": {
+      "word": "OX",
+      "edgesAlgorithm": "[R F R' , S']]",
+      "cornersAlgorithm": "[U D' R D' : [U' , R' D R]]"
+    }
+  },
+  "P": {
+    "A": {
+      "word": "PAINT",
+      "edgesAlgorithm": "[U' : [L E' L' , U2']]",
+      "cornersAlgorithm": "[U2 , R' D' R]"
+    },
+    "B": {
+      "word": "PB",
+      "edgesAlgorithm": "[U2' : [L E' L' , U']]",
+      "cornersAlgorithm": "[U , R' D' R]"
+    },
+    "C": {
+      "word": "PC"
+    },
+    "D": {
+      "word": "POD",
+      "edgesAlgorithm": "[L E' L' , U]",
+      "cornersAlgorithm": "[U' , R' D' R]"
+    },
+    "E": {
+      "word": "PEE",
+      "edgesAlgorithm": "[R M U' : [M' , U2]]",
+      "cornersAlgorithm": "[U R' U' : [R D R' , U']]"
+    },
+    "F": {
+      "word": "PERFUME",
+      "edgesAlgorithm": "[U' E' L : [S' , L2']]",
+      "cornersAlgorithm": "[R' U' : [R U R' , D']]"
+    },
+    "G": {
+      "word": "PIG",
+      "edgesAlgorithm": "[M' U' L : [E' , L2']]",
+      "cornersAlgorithm": "[U R' D' : [R U' R' , D2]]"
+    },
+    "H": {
+      "word": "PHONE",
+      "edgesAlgorithm": "[l' U' L : [E' , L2']]",
+      "cornersAlgorithm": "[R U R' , D2]"
+    },
+    "I": {
+      "word": "PIE",
+      "cornersAlgorithm": "[D R U' : [R' D' R , U2]]"
+    },
+    "J": {
+      "word": "PAJAMAS"
+    },
+    "K": {
+      "word": "PITTSBURGH KNIGHTS",
+      "edgesAlgorithm": "[M2' : [U R U' , M]]"
+    },
+    "L": {
+      "word": "PILLOW",
+      "edgesAlgorithm": "[E' , L' U L]",
+      "cornersAlgorithm": "[R U R' , D]"
+    },
+    "M": {
+      "word": "POKEMON",
+      "edgesAlgorithm": "[S' : [L E' L' , U]]"
+    },
+    "N": {
+      "word": "PINK",
+      "edgesAlgorithm": "[M' U' R' : [S , R2]]",
+      "cornersAlgorithm": "[U' R' D U : [R D' R' , U2]]"
+    },
+    "O": {
+      "word": "POLAND",
+      "edgesAlgorithm": "[R' , U' S U]",
+      "cornersAlgorithm": "[R D' : [U , R' D R]]"
+    },
+    "Q": {
+      "word": "PORCUPINE",
+      "edgesAlgorithm": "[U R U' , M']",
+      "cornersAlgorithm": "[R' U : [R U' R' , D']]"
+    },
+    "R": {
+      "word": "PEAR",
+      "edgesAlgorithm": "[L2 : [E' , L' U L]]",
+      "cornersAlgorithm": "[R' : [D , R' U R]]"
+    },
+    "S": {
+      "word": "PLAY STATION",
+      "edgesAlgorithm": "[U l : [L' U' L , E']]",
+      "cornersAlgorithm": "[U R' D' : [R U' R' , D']]"
+    },
+    "T": {
+      "word": "POT",
+      "edgesAlgorithm": "[E , R' U' R]",
+      "cornersAlgorithm": "[R U R' , D']"
+    },
+    "U": {
+      "word": "PUDDLE",
+      "edgesAlgorithm": "[U' L F2' : [L' S' L , F']]",
+      "cornersAlgorithm": "[R D : [U , R' D' R]]"
+    },
+    "V": {
+      "word": "POLE VAULT",
+      "edgesAlgorithm": "[U' E' R' : [E , R2]]"
+    },
+    "W": {
+      "word": "PAW",
+      "edgesAlgorithm": "[M : [U R U' , M2']]",
+      "cornersAlgorithm": "[D' R U' R' : [R' D R , U2]]"
+    },
+    "X": {
+      "word": "PIXEL",
+      "edgesAlgorithm": "[U E L' : [E , L2]]",
+      "cornersAlgorithm": "[R : [R D' R' , U']]"
+    }
+  },
+  "Q": {
+    "A": {
+      "word": "Q AND A",
+      "cornersAlgorithm": "[R' U' D : [R D R' , U2]]"
+    },
+    "B": {
+      "word": "QUARTERBACK",
+      "edgesAlgorithm": "[R' : [U' R U , M]]"
+    },
+    "C": {
+      "word": "QUICK"
+    },
+    "D": {
+      "word": "QUID",
+      "edgesAlgorithm": "[L : [U L' U' , M]]",
+      "cornersAlgorithm": "[R' D' : [R' D R , U']]"
+    },
+    "E": {
+      "word": "QUEEN ELIZABETH",
+      "edgesAlgorithm": "[l' : [U' L U , M]]",
+      "cornersAlgorithm": "[F' L F , R']"
+    },
+    "F": {
+      "word": "QUAFFLE",
+      "edgesAlgorithm": "[M' , U' L' U]",
+      "cornersAlgorithm": "[R' F : [D , R U R']]"
+    },
+    "G": {
+      "word": "QUAGMIRE",
+      "edgesAlgorithm": "[l' : [U' L' U , M]]",
+      "cornersAlgorithm": "[R' U : [D , R U' R']]"
+    },
+    "H": {
+      "word": "QUIDDITCH",
+      "edgesAlgorithm": "[M' , U' L U]",
+      "cornersAlgorithm": "[R , U' L U]"
+    },
+    "I": {
+      "word": "QIYI",
+      "cornersAlgorithm": "[R D' U' : [R' D' R , U2]]"
+    },
+    "J": {
+      "word": "QUI-GON JINN",
+      "edgesAlgorithm": "[U' R U , M]"
+    },
+    "K": {
+      "word": "QUOKKA",
+      "edgesAlgorithm": "[U' : [R' F' R , S]",
+      "cornersAlgorithm": "[D' R' U : [D , R U' R']]"
+    },
+    "L": {
+      "word": "QUILL",
+      "edgesAlgorithm": "[U L' U' , M]",
+      "cornersAlgorithm": "[R' F : [D , R U' R']]"
+    },
+    "M": {
+      "word": "QUANTUM",
+      "edgesAlgorithm": "[r : [U R' U' , M]]"
+    },
+    "N": {
+      "word": "QUEEN",
+      "edgesAlgorithm": "[M' , U R' U']"
+    },
+    "O": {
+      "word": "QUAKER OATS",
+      "edgesAlgorithm": "[r : [U R U' , M]]",
+      "cornersAlgorithm": "[U' R U : [D , R' U' R]]"
+    },
+    "P": {
+      "word": "CUPID",
+      "edgesAlgorithm": "[M' , U R U']",
+      "cornersAlgorithm": "[R' U : [D' , R U' R']]"
+    },
+    "R": {
+      "word": "QR CODE",
+      "edgesAlgorithm": "[U L U' , M]",
+      "cornersAlgorithm": "[R , U' L' U]"
+    },
+    "S": {
+      "word": "QUICKSAND",
+      "edgesAlgorithm": "[U' : [R B R' , S]]",
+      "cornersAlgorithm": "[D R' U : [D , R U' R']]"
+    },
+    "T": {
+      "word": "CUTIE",
+      "edgesAlgorithm": "[U' R' U , M]",
+      "cornersAlgorithm": "[R U' : [R' U R , D]]"
+    },
+    "U": {
+      "word": "QUEUE",
+      "edgesAlgorithm": "[U : [S , R' F' R]]",
+      "cornersAlgorithm": "[D' R U' : [R' U R , D']]"
+    },
+    "V": {
+      "word": "QUIVER",
+      "edgesAlgorithm": "[R' : [U' R' U , M]]",
+      "cornersAlgorithm": "[U R' U' : [R U R' , D']]"
+    },
+    "W": {
+      "word": "QWERTY",
+      "edgesAlgorithm": "[U : [S , R B R']]",
+      "cornersAlgorithm": "[D R U' : [R' U R , D']]"
+    },
+    "X": {
+      "word": "QUADRUPLEX",
+      "edgesAlgorithm": "[L : [U L U' , M]]",
+      "cornersAlgorithm": "[R U' : [R' U R , D']]"
+    }
+  },
+  "R": {
+    "A": {
+      "word": "RAY",
+      "edgesAlgorithm": "[L' U : [L2 , S']]"
+    },
+    "B": {
+      "word": "ROBBER",
+      "edgesAlgorithm": "[R' E2 R , U']",
+      "cornersAlgorithm": "[R2 U : [D , R' U' R]]"
+    },
+    "C": {
+      "word": "REMOTE CONTROL"
+    },
+    "D": {
+      "word": "ROAD",
+      "edgesAlgorithm": "[U2 : [R' E2 R , U]]",
+      "cornersAlgorithm": "[U' R2' : [D' , R U' R']]"
+    },
+    "E": {
+      "word": "REAR",
+      "edgesAlgorithm": "[U' R F : [E' , R2']]"
+    },
+    "F": {
+      "word": "RIFLE",
+      "edgesAlgorithm": "[L U L' , E']",
+      "cornersAlgorithm": "[F , l U' l']"
+    },
+    "G": {
+      "word": "RUG",
+      "edgesAlgorithm": "[S' U' R : [E' , R2']]",
+      "cornersAlgorithm": "[R B' R' : [U , R' D R]]"
+    },
+    "H": {
+      "word": "RIGHT",
+      "cornersAlgorithm": "[U D R' F' : [R U' R' , D]]"
+    },
+    "I": {
+      "word": "RICE",
+      "cornersAlgorithm": "[R U R' D' : [R' D R , U2]]"
+    },
+    "J": {
+      "word": "RAJ",
+      "edgesAlgorithm": "[R' U' R : [E' , R2']]"
+    },
+    "K": {
+      "word": "RAKE",
+      "edgesAlgorithm": "[M' , U L U']",
+      "cornersAlgorithm": "[U' R' U' : [R D R' , U']]"
+    },
+    "L": {
+      "word": "ROCKET LEAGUE",
+      "edgesAlgorithm": "[U' L' : [S' , L2]]",
+      "cornersAlgorithm": "[D R' : [R' U R , D]]"
+    },
+    "M": {
+      "word": "ROOM",
+      "edgesAlgorithm": "[M' : [R E' R' , U]]"
+    },
+    "N": {
+      "word": "RUN",
+      "edgesAlgorithm": "[L U L' , E]",
+      "cornersAlgorithm": "[U R2 U' : [R U R' , D']]"
+    },
+    "O": {
+      "word": "ROSE",
+      "edgesAlgorithm": "[R' E2 : [R U' R' , E]]",
+      "cornersAlgorithm": "[R B' : [D , R' U' R]]"
+    },
+    "P": {
+      "word": "ROPE",
+      "edgesAlgorithm": "[L2 : [L' U L , E']]",
+      "cornersAlgorithm": "[R2' : [U , R D R']]"
+    },
+    "Q": {
+      "word": "RACQUET",
+      "edgesAlgorithm": "[M , U L U']",
+      "cornersAlgorithm": "[U' L' U , R]"
+    },
+    "S": {
+      "word": "ROSS",
+      "edgesAlgorithm": "[U2' : [M , U' L U]]",
+      "cornersAlgorithm": "[U' R' U' : [R D' R' , U']]"
+    },
+    "T": {
+      "word": "RAT",
+      "edgesAlgorithm": "[R U' R : [E' , R2']]",
+      "cornersAlgorithm": "[D' R2' : [U , R D R']]"
+    },
+    "U": {
+      "word": "RULER",
+      "edgesAlgorithm": "[D U' R : [E' , R2']]",
+      "cornersAlgorithm": "[U' R' : [R' D R , U']]"
+    },
+    "V": {
+      "word": "RIVER",
+      "edgesAlgorithm": "[U' R : [E' , R2']]",
+      "cornersAlgorithm": "[D' U' R' : [R' D R , U']]"
+    },
+    "W": {
+      "word": "RAINBOW",
+      "edgesAlgorithm": "[M2 , U L U']",
+      "cornersAlgorithm": "[U R : [D' , R U' R']]"
+    },
+    "X": {
+      "word": "ROCKS",
+      "edgesAlgorithm": "U' L' U' L' U L U L U L'",
+      "cornersAlgorithm": "[R2 U : [D' , R' U' R]]"
+    }
+  },
+  "S": {
+    "A": {
+      "word": "SAN ANDREAS",
+      "edgesAlgorithm": "[U R' B R : [S , R2']]",
+      "cornersAlgorithm": "[U D' : [R D R' , U2]]"
+    },
+    "B": {
+      "word": "SPONGEBOB",
+      "edgesAlgorithm": "(M U' M' U')2",
+      "cornersAlgorithm": "[D' : [R D R' , U']]"
+    },
+    "C": {
+      "word": "SCORPION"
+    },
+    "D": {
+      "word": "SD CARD",
+      "edgesAlgorithm": "(M U M' U)2",
+      "cornersAlgorithm": "[D : [U' , R' D R]]"
+    },
+    "E": {
+      "word": "SEED",
+      "edgesAlgorithm": "M2' : (U' M U' M')2",
+      "cornersAlgorithm": "[D U R' : [R' D R , U']]"
+    },
+    "F": {
+      "word": "SAFE",
+      "edgesAlgorithm": "[U' r' : [E , R U R']]",
+      "cornersAlgorithm": "[F , l U2 l']"
+    },
+    "G": {
+      "word": "SHOTGUN",
+      "edgesAlgorithm": "[U l : [E , L' U' L]]",
+      "cornersAlgorithm": "[U D2 : [R U' R' , D']]"
+    },
+    "H": {
+      "word": "SHAMPOO",
+      "edgesAlgorithm": "[U' M : [L S L' , U]]"
+    },
+    "I": {
+      "word": "SIRI",
+      "cornersAlgorithm": "[D R' D : [F2 , D' R D R']]"
+    },
+    "J": {
+      "word": "SLIM JIM",
+      "edgesAlgorithm": "[U2' : [U R U' , M]]"
+    },
+    "K": {
+      "word": "SHREK",
+      "edgesAlgorithm": "U M U M' U2 M' U' M U",
+      "cornersAlgorithm": "[U : [D2 , R U' R']]"
+    },
+    "L": {
+      "word": "SAIL",
+      "edgesAlgorithm": "[U' R' B : [R2 , E]]",
+      "cornersAlgorithm": "[D' R D : [R' U' R , D2]]"
+    },
+    "M": {
+      "word": "SPIDER-MAN",
+      "edgesAlgorithm": "M2' : (U M U M')2"
+    },
+    "N": {
+      "word": "SNOW",
+      "edgesAlgorithm": "[U M : [R' S' R , U']]",
+      "cornersAlgorithm": "[U' R' U : [R D' R' , U2]]"
+    },
+    "O": {
+      "word": "SO",
+      "edgesAlgorithm": "[U' r' : [E' , R U R']]",
+      "cornersAlgorithm": "[U' : [D' , R' U' R]]"
+    },
+    "P": {
+      "word": "SPELL",
+      "edgesAlgorithm": "[U l : [E' , L' U' L]]",
+      "cornersAlgorithm": "[U R' D' : [D' , R U' R']]"
+    },
+    "Q": {
+      "word": "SASQUATCH",
+      "edgesAlgorithm": "[U' : [S , R B R']]",
+      "cornersAlgorithm": "[D R' U : [R U' R' , D]]"
+    },
+    "R": {
+      "word": "SYRINGE",
+      "edgesAlgorithm": "[U2 : [U' L U , M]]",
+      "cornersAlgorithm": "[U' R' U2 : [R D' R' , U]]"
+    },
+    "T": {
+      "word": "SATAN",
+      "edgesAlgorithm": "[U2' : [U R' U' , M]]",
+      "cornersAlgorithm": "[D2' R' : [F' , R D' R' D]]"
+    },
+    "U": {
+      "word": "SUN",
+      "edgesAlgorithm": "[D' : [R F R' , S']]",
+      "cornersAlgorithm": "[U' D' R' D' : [U' , R D R']]"
+    },
+    "V": {
+      "word": "SUV",
+      "edgesAlgorithm": "[U L B' L' : [S , L2]]",
+      "cornersAlgorithm": "[U' D' R' : [R' D R , U]]"
+    },
+    "W": {
+      "word": "STAR WARS",
+      "cornersAlgorithm": "[U R : [D2 , R U' R']]"
+    },
+    "X": {
+      "word": "SAXOPHONE",
+      "edgesAlgorithm": "[U' R' B R : [S' , R2']]"
+    }
+  },
+  "T": {
+    "A": {
+      "word": "TANK",
+      "edgesAlgorithm": "[R U' : [R2' , S]]",
+      "cornersAlgorithm": "[U D : [R D' R' , U2]]"
+    },
+    "B": {
+      "word": "TENNIS BALL",
+      "edgesAlgorithm": "[E : [R E' R' , U']]",
+      "cornersAlgorithm": "[D : [R D' R' , U']]"
+    },
+    "C": {
+      "word": "TIC TAC"
+    },
+    "D": {
+      "word": "TOUCHDOWN",
+      "edgesAlgorithm": "[L E2' L' , U]",
+      "cornersAlgorithm": "[D' : [U' , R' D' R]]"
+    },
+    "E": {
+      "word": "TEA",
+      "edgesAlgorithm": "[l' : [E , L U' L']]",
+      "cornersAlgorithm": "[R U2 : [R' D' R , U']]"
+    },
+    "F": {
+      "word": "TOFU",
+      "edgesAlgorithm": "[R2' : [R U' R' , E]]",
+      "cornersAlgorithm": "[D' R' U' : [R U R' , D']]"
+    },
+    "G": {
+      "word": "TAG",
+      "edgesAlgorithm": "[L E2' : [L' U L , E']]",
+      "cornersAlgorithm": "[R' D R2 : [U , R' D' R]]"
+    },
+    "H": {
+      "word": "TEETH",
+      "edgesAlgorithm": "[R' U' R , E']",
+      "cornersAlgorithm": "[D' : [R U R' , D']]"
+    },
+    "I": {
+      "word": "TIE",
+      "cornersAlgorithm": "[R U' : [R' D' R , U2]]"
+    },
+    "J": {
+      "word": "TAJ MAHAL",
+      "edgesAlgorithm": "[U R : [S , R2']]"
+    },
+    "K": {
+      "word": "TKO",
+      "edgesAlgorithm": "[M' , U' R' U]",
+      "cornersAlgorithm": "[R U R' U' : [R U R' , D']]"
+    },
+    "L": {
+      "word": "TAIL",
+      "edgesAlgorithm": "[R U' R : [E , R2']]",
+      "cornersAlgorithm": "[D' : [R U R' , D2]]"
+    },
+    "M": {
+      "word": "TOMATO",
+      "edgesAlgorithm": "[R u' R' : [E' , R2]]"
+    },
+    "N": {
+      "word": "TENT",
+      "cornersAlgorithm": "[R' F' R D' U' : [R' D R , U2]]"
+    },
+    "O": {
+      "word": "TOE",
+      "edgesAlgorithm": "[S U L' : [E , L2]]"
+    },
+    "P": {
+      "word": "TOILET PAPER",
+      "edgesAlgorithm": "[R' U' R , E]",
+      "cornersAlgorithm": "[D' , R U R']"
+    },
+    "Q": {
+      "word": "TEQUILA",
+      "edgesAlgorithm": "[M , U' R' U]",
+      "cornersAlgorithm": "[R U' : [D , R' U R]]"
+    },
+    "R": {
+      "word": "TIRE",
+      "edgesAlgorithm": "[R U' R' : [E' , R2]]",
+      "cornersAlgorithm": "[D' R' : [D , R' U R]]"
+    },
+    "S": {
+      "word": "TAYLOR SWIFT",
+      "edgesAlgorithm": "[U2 : [M , U R' U']]",
+      "cornersAlgorithm": "[D R' D : [F' , D' R D R']]"
+    },
+    "U": {
+      "word": "TUTU",
+      "edgesAlgorithm": "[U R' U : [M' , U2]]",
+      "cornersAlgorithm": "[D' R : [R D' R' , U']]"
+    },
+    "V": {
+      "word": "TV",
+      "edgesAlgorithm": "U R U R U' R' U' R' U' R",
+      "cornersAlgorithm": "[D' R D : [U , R' D' R]]"
+    },
+    "W": {
+      "word": "TOWER",
+      "edgesAlgorithm": "[M2' , U' R' U]"
+    },
+    "X": {
+      "word": "TUXEDO",
+      "edgesAlgorithm": "[U L' : [E , L2]]",
+      "cornersAlgorithm": "[R U' D : [R' U R , D2]]"
+    }
+  },
+  "U": {
+    "A": {
+      "word": "USA",
+      "edgesAlgorithm": "[M' , U2]",
+      "cornersAlgorithm": "[R F' R' U : [R D R' , U2]]"
+    },
+    "B": {
+      "word": "USAIN BOLT",
+      "edgesAlgorithm": "[L F' : [L' S' L , F2']]",
+      "cornersAlgorithm": "[R F' : [D , R' U' R]]"
+    },
+    "C": {
+      "word": "UNICORN"
+    },
+    "D": {
+      "word": "UNDERWEAR",
+      "edgesAlgorithm": "[R' F : [R S R' , F2]]",
+      "cornersAlgorithm": "[U' : [F2' , U R' U' R]]"
+    },
+    "E": {
+      "word": "UNREAL ENGINE",
+      "edgesAlgorithm": "[L' F' : [E' , L2]]",
+      "cornersAlgorithm": "[D' R : [U , R D' R']]"
+    },
+    "F": {
+      "word": "UFO",
+      "edgesAlgorithm": "[U R' F' : [R S R' , F']]",
+      "cornersAlgorithm": "[U' R' U : [D , R U' R']]"
+    },
+    "G": {
+      "word": "UGGS",
+      "edgesAlgorithm": "[L F' : [E' , L2']]"
+    },
+    "H": {
+      "word": "UHHH",
+      "edgesAlgorithm": "[l' U : [L2 , S']]",
+      "cornersAlgorithm": "[D R U' R' : [U2 , R' D R]]"
+    },
+    "I": {
+      "word": "USER INTERFACE",
+      "cornersAlgorithm": "[R D U' : [R' D' R , U2]]"
+    },
+    "J": {
+      "word": "OUIJA BOARD",
+      "edgesAlgorithm": "[U R U' : [M' , U2]]"
+    },
+    "K": {
+      "word": "UKULELE",
+      "cornersAlgorithm": "[R : [F2 , R' U R U']]"
+    },
+    "L": {
+      "word": "URINAL",
+      "edgesAlgorithm": "[U' D R : [E , R2']]"
+    },
+    "M": {
+      "word": "UMBRELLA",
+      "edgesAlgorithm": "[R F : [E , R2']]"
+    },
+    "N": {
+      "word": "KIM JONG UN",
+      "edgesAlgorithm": "[r U' : [R2' , S]]",
+      "cornersAlgorithm": "[U' R' : [U2 , R' D R]]"
+    },
+    "O": {
+      "word": "UNO",
+      "edgesAlgorithm": "[R' F : [E , R2]]",
+      "cornersAlgorithm": "[U' R' : [U , R' D R]]"
+    },
+    "P": {
+      "word": "UP",
+      "edgesAlgorithm": "[U' L F : [L' S' L , F]]",
+      "cornersAlgorithm": "[R D : [R' D' R , U]]"
+    },
+    "Q": {
+      "word": "UNIQUE",
+      "edgesAlgorithm": "[U : [R' F' R , S]",
+      "cornersAlgorithm": "[D' R U' : [D' , R' U R]]"
+    },
+    "R": {
+      "word": "UBER",
+      "edgesAlgorithm": "[U' L U : [M' , U2']]",
+      "cornersAlgorithm": "[U' R' : [U' , R' D R]]"
+    },
+    "S": {
+      "word": "UNITED STATES",
+      "edgesAlgorithm": "[D' : [S' , R F R']]",
+      "cornersAlgorithm": "[U' D' R' D' : [R D R' , U']]"
+    },
+    "T": {
+      "word": "UTAH",
+      "edgesAlgorithm": "[U R' U' : [M' , U2]]",
+      "cornersAlgorithm": "[D' R : [U' , R D' R']]"
+    },
+    "V": {
+      "word": "ULTRAVIOLET",
+      "edgesAlgorithm": "[R' F : [R S' R' , F2]]",
+      "cornersAlgorithm": "[U' R' U R : [D , R U' R']]"
+    },
+    "W": {
+      "word": "UWU",
+      "edgesAlgorithm": "u2 M' u2 M'"
+    },
+    "X": {
+      "word": "USER EXPERIENCE",
+      "edgesAlgorithm": "[L F' : [L' S L , F2']]",
+      "cornersAlgorithm": "[R U' D2 : [R' U R , D]]"
+    }
+  },
+  "V": {
+    "A": {
+      "word": "VASE",
+      "edgesAlgorithm": "[U : [S , R2']]",
+      "cornersAlgorithm": "[U2 , R' D R U' R D' R']"
+    },
+    "B": {
+      "word": "VOLLEYBALL",
+      "edgesAlgorithm": "[R U R' : [S , R2]]",
+      "cornersAlgorithm": "[U , R' D R U' R D' R']"
+    },
+    "C": {
+      "word": "VACUUM"
+    },
+    "D": {
+      "word": "VIDEO",
+      "edgesAlgorithm": "R' U' R U R U R U R U' R' U'",
+      "cornersAlgorithm": "[U' , R' D R U' R D' R']"
+    },
+    "E": {
+      "word": "VENDING MACHINE",
+      "edgesAlgorithm": "[L2 : [S , L' F' L]]",
+      "cornersAlgorithm": "[U R' D' : [R' D' R , U']]"
+    },
+    "F": {
+      "word": "VENUS FLYTRAP",
+      "edgesAlgorithm": "[U' E' R' : [E' , R2]]",
+      "cornersAlgorithm": "[U' D' R' U : [D , R U' R']]"
+    },
+    "G": {
+      "word": "VEGETABLE",
+      "edgesAlgorithm": "[S , L' F' L]",
+      "cornersAlgorithm": "[U D R D' : [R' D R , U']]"
+    },
+    "H": {
+      "word": "VIHART",
+      "edgesAlgorithm": "[u' R : [E , R2']]",
+      "cornersAlgorithm": "[R U' D R' : [U2 , R' D R]]"
+    },
+    "I": {
+      "word": "VINE",
+      "cornersAlgorithm": "[R U' R' U D : [R D R' , U2]]"
+    },
+    "J": {
+      "word": "VIJAY",
+      "edgesAlgorithm": "U2 R U' R' U' R' U' R U R U'"
+    },
+    "K": {
+      "word": "VIKING",
+      "edgesAlgorithm": "[U R' F' R : [S , R2']]"
+    },
+    "L": {
+      "word": "VALLEY",
+      "edgesAlgorithm": "[U' R : [E , R2']]",
+      "cornersAlgorithm": "[R U' R' : [U2 , R' D R]]"
+    },
+    "M": {
+      "word": "VOMIT",
+      "edgesAlgorithm": "[S' , R' F R]"
+    },
+    "N": {
+      "word": "VAN",
+      "edgesAlgorithm": "[u' R' : [E' , R2]]",
+      "cornersAlgorithm": "[U' D' R' : [U2 , R' D R]]"
+    },
+    "O": {
+      "word": "VOLT",
+      "cornersAlgorithm": "[D' R : [F2 , R' U R U']]"
+    },
+    "P": {
+      "word": "VIPER",
+      "edgesAlgorithm": "[U' E' R : [E , R2']]"
+    },
+    "Q": {
+      "word": "VENTRILOQUIST",
+      "edgesAlgorithm": "[r' : [U' R' U , M']]",
+      "cornersAlgorithm": "[U R' U' : [D' , R U R']]"
+    },
+    "R": {
+      "word": "VR HEADSET",
+      "edgesAlgorithm": "[U' R' : [E' , R2]]",
+      "cornersAlgorithm": "[D' U' R' : [U' , R' D R]]"
+    },
+    "S": {
+      "word": "VSAUCE",
+      "edgesAlgorithm": "[U L B' L : [S , L2']]",
+      "cornersAlgorithm": "[U' D' R' : [U , R' D R]]"
+    },
+    "T": {
+      "word": "VET",
+      "edgesAlgorithm": "R' U R U R U R' U' R' U'",
+      "cornersAlgorithm": "[D' R D : [R' D' R , U]]"
+    },
+    "U": {
+      "word": "VIEW",
+      "edgesAlgorithm": "[R' F' : [R S' R' , F2]]",
+      "cornersAlgorithm": "[U' R' U R : [R U' R' , D]]"
+    },
+    "W": {
+      "word": "VOLKSWAGEN",
+      "edgesAlgorithm": "[D' R' F : [R S' R' , F2]]",
+      "cornersAlgorithm": "[D R U' R' : [R' U R , D']]"
+    },
+    "X": {
+      "word": "VACCINE",
+      "edgesAlgorithm": "[U' : [S' , R2']]",
+      "cornersAlgorithm": "[R U' R' U : [R D' R' , U2]]"
+    }
+  },
+  "W": {
+    "A": {
+      "word": "WHALE",
+      "edgesAlgorithm": "[U2 , M]",
+      "cornersAlgorithm": "[R D' R' : [U2 , R' D R]]"
+    },
+    "B": {
+      "word": "WEB",
+      "edgesAlgorithm": "[R : [U' R' U , M2']]",
+      "cornersAlgorithm": "[R D' R' U R' D R , U']"
+    },
+    "C": {
+      "word": "WICK"
+    },
+    "D": {
+      "word": "WINDOW",
+      "edgesAlgorithm": "[l' M' : [U L U' , M2']]",
+      "cornersAlgorithm": "[R D' R' : [U' , R' D R]]"
+    },
+    "E": {
+      "word": "WEED",
+      "edgesAlgorithm": "[l' : [U' L U , M2']]",
+      "cornersAlgorithm": "[D R : [U , R D' R']]"
+    },
+    "F": {
+      "word": "WIFE",
+      "edgesAlgorithm": "[M' : [U' L' U , M2']]",
+      "cornersAlgorithm": "[R U' R2' : [U , R D R']]"
+    },
+    "G": {
+      "word": "WIG",
+      "edgesAlgorithm": "[U : [L B' L' , S']]",
+      "cornersAlgorithm": "[U R2 : [U' , R' D R]]"
+    },
+    "H": {
+      "word": "WHAT",
+      "edgesAlgorithm": "[M' : [U' L U , M2']]",
+      "cornersAlgorithm": "[R D' R' : [U , R' D R]]"
+    },
+    "I": {
+      "word": "WII",
+      "cornersAlgorithm": "[D R : [U2 , R D' R']]"
+    },
+    "J": {
+      "word": "WSJ",
+      "edgesAlgorithm": "[U' R U , M2']"
+    },
+    "K": {
+      "word": "WOK",
+      "edgesAlgorithm": "[D : [S' , R F R']]",
+      "cornersAlgorithm": "[U R D' : [R' D R , U']]"
+    },
+    "L": {
+      "word": "WALL",
+      "edgesAlgorithm": "[U L' U' , M2']]",
+      "cornersAlgorithm": "[D' R2 : [R' U' R , D']]"
+    },
+    "M": {
+      "word": "WATERMELON",
+      "edgesAlgorithm": "[r : [U R' U' , M2']]"
+    },
+    "N": {
+      "word": "WINE",
+      "edgesAlgorithm": "[M' : [U R' U' , M2']]",
+      "cornersAlgorithm": "[U R U D' : [R' D R , U2]]"
+    },
+    "O": {
+      "word": "WOLF",
+      "edgesAlgorithm": "[U' : [R' B R , S]]"
+    },
+    "P": {
+      "word": "WEAPON",
+      "edgesAlgorithm": "[M' : [U R U' , M2']]",
+      "cornersAlgorithm": "[D' R U' R' : [U2 , R' D R]]"
+    },
+    "Q": {
+      "word": "WUQUE",
+      "edgesAlgorithm": "[U : [R B R' , S]]",
+      "cornersAlgorithm": "[D R U' : [D' , R' U R]]"
+    },
+    "R": {
+      "word": "WAR",
+      "edgesAlgorithm": "[U L U' , M2']",
+      "cornersAlgorithm": "[U R2 : [U' , R' D' R]]"
+    },
+    "S": {
+      "word": "WASABI",
+      "cornersAlgorithm": "[U R2 : [U' , R' D2 R]]"
+    },
+    "T": {
+      "word": "WATER",
+      "edgesAlgorithm": "[U' R' U , M2']"
+    },
+    "U": {
+      "word": "WALUIGI",
+      "edgesAlgorithm": "M' U2 M' U2 M2'",
+      "cornersAlgorithm": "[U' R2' : [D , R2 U R2' U' R2]]"
+    },
+    "V": {
+      "word": "WAVE",
+      "edgesAlgorithm": "[D' R' F' : [R S' R' , F2]]",
+      "cornersAlgorithm": "[D R U' R' : [D' , R' U R]]"
+    },
+    "X": {
+      "word": "WAX",
+      "edgesAlgorithm": "[D L F : [L' S L , F2']]",
+      "cornersAlgorithm": "[R U' R' : [R' U R , D']]"
+    }
+  },
+  "X": {
+    "A": {
+      "word": "XAVIER",
+      "edgesAlgorithm": "[U' : [S' , L2]]",
+      "cornersAlgorithm": "[R' U' D' R : [D , R U' R']]"
+    },
+    "B": {
+      "word": "X-BOX",
+      "edgesAlgorithm": "L U L' U' L' U' L' U L U",
+      "cornersAlgorithm": "[R' B : [R U R' , D']]"
+    },
+    "C": {
+      "word": "CROSS COUNTRY"
+    },
+    "D": {
+      "word": "XD",
+      "edgesAlgorithm": "[L' U' L : [S' , L2]]",
+      "cornersAlgorithm": "[R' D' R : [D , R U' R']]"
+    },
+    "E": {
+      "word": "XEROX",
+      "edgesAlgorithm": "[S , L F' L']",
+      "cornersAlgorithm": "[R : [U , R D' R']]"
+    },
+    "F": {
+      "word": "XYLOPHONE",
+      "edgesAlgorithm": "[U E L' : [E' , L2]]",
+      "cornersAlgorithm": "[U' D R' U : [D , R U' R']]"
+    },
+    "G": {
+      "word": "XIANG",
+      "cornersAlgorithm": "[D R : [F2 , R' U R U']]"
+    },
+    "H": {
+      "word": "EXHALE",
+      "edgesAlgorithm": "[u L : [E , L2']]"
+    },
+    "I": {
+      "word": "EXCITE",
+      "cornersAlgorithm": "[R2 U : [R' U R , D']]"
+    },
+    "J": {
+      "word": "SHY GUY",
+      "edgesAlgorithm": "[U L' : [E' , L2]]"
+    },
+    "K": {
+      "word": "SHOCK",
+      "edgesAlgorithm": "[U' L F L' : [S' , L2]]",
+      "cornersAlgorithm": "[R' D' R : [D ,R U R']]"
+    },
+    "L": {
+      "word": "EXTRA LARGE",
+      "edgesAlgorithm": "U2' L' U L U L U L' U' L' U",
+      "cornersAlgorithm": "[D R D : [R' D' R , U]]"
+    },
+    "M": {
+      "word": "X-MEN",
+      "edgesAlgorithm": "[R2' : [S' , R F R']]"
+    },
+    "N": {
+      "word": "XENON",
+      "edgesAlgorithm": "[u L' : [E' , L2]]",
+      "cornersAlgorithm": "[D U' R' : [U2 , R' D R]]"
+    },
+    "O": {
+      "word": "TIC-TAC-TOE",
+      "edgesAlgorithm": "[S' , R F R']",
+      "cornersAlgorithm": "[U D' R D' : [R' D R , U']]"
+    },
+    "P": {
+      "word": "EXPERIENCE POINTS",
+      "edgesAlgorithm": "[U E L : [E , L2']]",
+      "cornersAlgorithm": "[R2 : [R' U' R , D']]"
+    },
+    "Q": {
+      "word": "XQC",
+      "edgesAlgorithm": "[l : [U L U' , M']]",
+      "cornersAlgorithm": "[R U' : [D' , R' U R]]"
+    },
+    "R": {
+      "word": "X-RAY",
+      "edgesAlgorithm": "L U' L' U' L' U' L U L U",
+      "cornersAlgorithm": "[R2 U : [R' U' R , D']]"
+    },
+    "S": {
+      "word": "EXTRA SMALL",
+      "edgesAlgorithm": "[U' R' B R' : [S' , R2]]"
+    },
+    "T": {
+      "word": "SHEET",
+      "edgesAlgorithm": "[U L : [E , L2']]",
+      "cornersAlgorithm": "[R U' D' : [R' U R , D2]]"
+    },
+    "U": {
+      "word": "SHOE",
+      "edgesAlgorithm": "[L F : [L' S L , F2']]",
+      "cornersAlgorithm": "[R U' D' : [R' U R , D']]"
+    },
+    "V": {
+      "word": "SHEEV",
+      "edgesAlgorithm": "[U' : [R2' , S']]",
+      "cornersAlgorithm": "[R U' R' U' : [R D' R' , U2]]"
+    },
+    "W": {
+      "word": "CROSS WIND",
+      "edgesAlgorithm": "[D L F' : [L' S L , F2']]",
+      "cornersAlgorithm": "[R U' R' : [D' , R' U R]]"
+    }
+  }
+}
